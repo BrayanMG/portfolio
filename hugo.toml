@@ -1,3 +1,36 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://example.org/"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = "Brayan Mauricio Gonzalez"
+theme = "gokarna"
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[params]
+  avatarURL = "/images/pfp.JPG"
+  description = "Software Engineer · North Carolina"
+  footer = "Brayan Mauricio Gonzalez"
+  socialIcons = [
+    {name= "linkedin", url = "https://www.linkedin.com/in/brayan-mauricio-gonzalez-14438518b/"},
+    {name= "github", url = "https://github.com/BrayanMG"},
+    {name= "email", url = "mailto:brayanmgonzalez19@gmail.com"},
+  ]
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
+    weight = 3
