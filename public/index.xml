@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brayan Mauricio Gonzalez</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Brayan Mauricio Gonzalez</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;My name is Brayan Mauricio Gonzalez. I grew in Raleigh, NC, which is where I currently live. Both my parents and I are from Mexico!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mexico_coat_of_arms.png&#34; alt=&#34;Mexico&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I studied math and computer science at Western Carolina University and graduated in May of 2023. Going to school in the mountains was breathtaking.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/wcu_chancellor_seal.png&#34; alt=&#34;WCU&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Outside of work and school, I like to hike, play video games, and watch anime. Recently, I&amp;rsquo;ve been getting into tennis and pickleball!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;software-engineer--microsoft&#34;&gt;Software Engineer @ Microsoft&lt;/h2&gt;&#xA;&lt;h3 id=&#34;raleigh-nc--june-2023---present&#34;&gt;Raleigh, NC | June 2023 - Present&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Maintains 3 services within Azure Cost Management: Reservations, Cost Allocation, and Scheduled Actions&lt;/li&gt;&#xA;&lt;li&gt;Services include APIs used by 100,000+ users daily, including companies listed on the S&amp;amp;P 500&lt;/li&gt;&#xA;&lt;li&gt;APIs are written in C# and deployed using Azure resources (App Service, Traffic Manager, Cosmos DB)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;teacher-assistant-and-tutor--western-carolina-university&#34;&gt;Teacher Assistant and Tutor @ Western Carolina University&lt;/h2&gt;&#xA;&lt;h3 id=&#34;cullowhee-nc--august-2020---may-2023&#34;&gt;Cullowhee, NC | August 2020 - May 2023&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Attended weekly computer science labs to guide 20+ students in completing their assignments&lt;/li&gt;&#xA;&lt;li&gt;Facilitated drop-in tutoring for 100+ students seeking aid in courses relating to math or programming weekly&lt;/li&gt;&#xA;&lt;li&gt;Participated in meetings that discussed ways to improve the tutoring center such as implementing additional tutoring for computer science classes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;swe-intern--microsoft&#34;&gt;SWE Intern @ Microsoft&lt;/h2&gt;&#xA;&lt;h3 id=&#34;redmond-wa--may-2022---august-2022&#34;&gt;Redmond, WA | May 2022 - August 2022&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A part of the Azure Cost Management team under the Cloud + AI Platform&lt;/li&gt;&#xA;&lt;li&gt;Utilized Azure resources to work on a project that would greatly improve my team’s productivity by increasing performance among their billing APIs&lt;/li&gt;&#xA;&lt;li&gt;Obtained valuable insight on the full software engineering process, acquiring skills that will be essential as a full-time employee such as writing deployment scripts that automate the building process of applications&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;qooked&#34;&gt;Qooked&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;REST API written in Golang, deployed using GitHub workflows, Docker, and Azure services&lt;/li&gt;&#xA;&lt;li&gt;Provides users with the ability to store recipes and create meal plans&lt;/li&gt;&#xA;&lt;li&gt;Frontend is currently under development, will be written using the React framework&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;bonesdb&#34;&gt;BonesDB&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Capstone project that will be used by Western Carolina University’s Forensic Anthropology department&lt;/li&gt;&#xA;&lt;li&gt;Developed using the MERN (MongoDB, Express.js, React, Node.js) stack&lt;/li&gt;&#xA;&lt;li&gt;Provides an interface for students to update a database containing body donor skeletal data&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
