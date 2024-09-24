@@ -1,0 +1,8 @@
+name = "Merry"
+description = "Merry is a custom theme i made"
+
+tags = ["blog", "minimal", "dark", "light", "responsive", "personal", "portfolio"]
+
+features = ["Blog", "Responsive", "Minimal", "Clean", "Simple", "SEO", "Bootstrap", "Fast", "Dark", "Light"]
+
+min_version = "0.81.0"

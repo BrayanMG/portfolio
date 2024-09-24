@@ -2,7 +2,7 @@ baseURL = "https://brayanm.net/"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "Brayan Mauricio Gonzalez"
-theme = "gokarna"
+theme = "merry"
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
