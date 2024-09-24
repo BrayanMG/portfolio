@@ -2,6 +2,10 @@
 
 ## Author: Brayan Mauricio Gonzalez
 
-Built using Hugo, deployed on Azure through a Static Web App
+Features:
+
+- Built using the **Hugo** framework
+- Deployed on **Azure** through a Static Web App
+- CI/CD enabled through **GitHub** workflows
 
 You can access it through this [link!](https://brayanm.net "Portfolio Website")
