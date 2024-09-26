@@ -12,7 +12,6 @@ draft: false
 
 - Maintains 3 services within Azure Cost Management: Reservations, Cost Allocation, and Scheduled Actions
 - Services include APIs used by 100,000+ users daily, including companies listed on the S&P 500
-- APIs are written in C# and deployed using Azure resources (App Service, Traffic Manager, Cosmos DB)
 
 ---
 
