@@ -8,9 +8,9 @@ draft: false
 
 ## Qooked
 
-- REST API written in Golang, deployed using GitHub workflows, Docker, and Azure services
+- REST API written in Golang, deployed on Azure using App Service and Cosmos DB
+- Utilizes Docker and GitHub workflows for CI/CD
 - Provides users with the ability to store recipes and create meal plans
-- Frontend is currently under development, will be written using the React framework
 
 ---
 

@@ -10,8 +10,10 @@ draft: false
 
 ### Raleigh, NC | June 2023 - Present
 
-- Maintains 3 services within Azure Cost Management: Reservations, Cost Allocation, and Scheduled Actions
-- Services include APIs used by 100,000+ users daily, including companies listed on the S&P 500
+- Maintains 3 separate services: Reservations, Cost Allocation, and Scheduled Actions
+- Services consist of distributed, scalable APIs (written in C#) which receive an average of 10 million requests daily, these APIs are also accessible through the Azure Portal UX (written in TypeScript with React)
+- Utilizes infrastructure as code to deploy Azure resources (App Service, Traffic Manager, Cosmos DB, etc) across multiple tenants/clouds/environments, including sovereign clouds
+- Acts as a primary contact for customer reported incidents, customers include S&P 500 companies
 
 ---
 
@@ -29,6 +31,6 @@ draft: false
 
 ### Redmond, WA | May 2022 - August 2022
 
-- A part of the Azure Cost Management team under the Cloud + AI Platform
-- Utilized Azure resources to work on a project that would greatly improve my team’s productivity by increasing performance among their billing APIs
-- Obtained valuable insight on the full software engineering process, acquiring skills that will be essential as a full-time employee such as writing deployment scripts that automate the building process of applications
+- Proposed a data ingestion solution that would greatly improve my team’s API performances
+- Provisioned Azure Functions, Event Hubs, and Storage Accounts to host my prototype solution
+- Obtained valuable insight on the full software engineering process, acquiring skills that will be essential as a full-time employee such as writing deployment scripts for CI/CD
