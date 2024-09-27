@@ -13,7 +13,7 @@ draft: false
 - Maintains 3 separate services: Reservations, Cost Allocation, and Scheduled Actions
 - Services consist of distributed, scalable APIs (written in C#) which receive an average of 10 million requests daily, these APIs are also accessible through the Azure Portal UX (written in TypeScript with React)
 - Utilizes infrastructure as code to deploy Azure resources (App Service, Traffic Manager, Cosmos DB, etc) across multiple tenants/clouds/environments, including sovereign clouds
-- Acts as a primary contact for customer reported incidents, customers include S&P 500 companies
+- Acts as a primary contact for customer-reported incidents; customers include S&P 500 companies
 
 ---
 
