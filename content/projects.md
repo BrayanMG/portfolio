@@ -6,7 +6,7 @@ draft: false
 
 ---
 
-## Qooked
+## [Qooked](https://github.com/Fernando-Rz/qooked)
 
 - REST API written in Golang, deployed on Azure using App Service and Cosmos DB
 - Utilizes Docker and GitHub workflows for CI/CD
@@ -14,7 +14,7 @@ draft: false
 
 ---
 
-## Bookworm
+## [Bookworm](https://github.com/BrayanMG/bookworm)
 
 - Personal bookkeeping software created to help manage monthly expenses
 - Written in Python, utilizes the Pandas library
@@ -22,7 +22,7 @@ draft: false
 
 ---
 
-## BonesDB
+## [BonesDB](https://github.com/BrayanMG/bones-db)
 
 - Capstone project that will be used by Western Carolina University’s Forensic Anthropology department
 - Developed using the MERN (MongoDB, Express.js, React, Node.js) stack
