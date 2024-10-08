@@ -2,7 +2,11 @@
 
 ## Author: Brayan Mauricio Gonzalez
 
-Features:
+### Description
+
+I created this website to demonstrate my skills as a software engineer and to practice deploying a site to the internet.
+
+**Features**
 
 - Built using the **Hugo** framework
 - Deployed on **Azure** through a Static Web App
