@@ -14,6 +14,14 @@ draft: false
 
 ---
 
+## Bookworm
+
+- Personal bookkeeping software created to help manage monthly expenses
+- Written in Python, utilizes the Pandas library
+- Customizable behavior through a JSON configuration file
+
+---
+
 ## BonesDB
 
 - Capstone project that will be used by Western Carolina University’s Forensic Anthropology department
